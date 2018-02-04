@@ -5,7 +5,7 @@ Public Class ANTI_CLASS
     '# By \\ NYAN CAT             #
     '#                            #
     '# Dim ANTI as new ANTI_CLASS #
-    '# ANTI.ANTI_CLASS            #
+    '# ANTI.RunAnti            #
     '##############################
    
     Public Sub RunAnti()
